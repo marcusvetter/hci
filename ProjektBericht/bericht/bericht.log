@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.7.2)  3 JUL 2013 10:10
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2013.7.2)  3 JUL 2013 18:40
 entering extended mode
 **bericht.tex
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bericht.tex
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bericht.tex"
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, arabic, armenian, assamese, basque, bengali
 , bokmal, bulgarian, catalan, coptic, croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, galic
@@ -10,7 +10,7 @@ ian, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, icelandic, 
 -x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, romanian, russian, sanskrit, serbian, slovak, sloven
 ian, spanish, swedish, swissgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usenglishmax, w
 elsh, loaded.
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\chi-ext.cls
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\chi-ext.cls"
 Document Class: chi-ext 2010/12/01, Luis A. Leiva
 CHI Extended Abstracts template, original design by Manas Tungare, modified and refactored by Luis A. Leiva
 Available at http://personales.upv.es/luileito/chiext/
@@ -214,11 +214,11 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 Package: balance 1999/02/23 4.3 (PWD)
 \oldvsize=\dimen122
 )
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bibspacing.sty
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bibspacing.sty"
 \bibindent=\dimen123
 \bibspacing=\dimen124
 )
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bericht.aux)
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bericht.aux")
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 77.
 LaTeX Font Info:    ... okay on input line 77.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 77.
@@ -258,8 +258,8 @@ LaTeX Info: Redefining \ref on input line 77.
 LaTeX Info: Redefining \pageref on input line 77.
 LaTeX Info: Redefining \nameref on input line 77.
 
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bericht.out)
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bericht.out)
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bericht.out")
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bericht.out")
 \@outlinefile=\write3
 
 (C:\Users\Marcus\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -303,51 +303,174 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 79.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 79.
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
 [1
 
 
 {C:/Users/Marcus/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bericht.bbl
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no œ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no œ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no œ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+
+<img/android/mockup_startscreen.png, id=40, 329.73187pt x 528.47438pt>
+File: img/android/mockup_startscreen.png Graphic file (type png)
+ <use img/android/mockup_startscreen.png>
+Package pdftex.def Info: img/android/mockup_startscreen.png used on input line 114.
+(pdftex.def)             Requested size: 243.91124pt x 390.9359pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 115.
+See the caption package documentation for explanation.
+
+<img/android/mockup_color.png, id=41, 329.73187pt x 527.72156pt>
+File: img/android/mockup_color.png Graphic file (type png)
+ <use img/android/mockup_color.png>
+Package pdftex.def Info: img/android/mockup_color.png used on input line 121.
+(pdftex.def)             Requested size: 243.91124pt x 390.379pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 122.
+See the caption package documentation for explanation.
+
+[2 <C:/Daten/Studium/Master/Sem2/Human Computer Interaction/hci/ProjektBericht/bericht/img/android/mockup_startscreen.pn
+g>] <img/android/mockup_pen.png, id=48, 329.73187pt x 528.47438pt>
+File: img/android/mockup_pen.png Graphic file (type png)
+ <use img/android/mockup_pen.png>
+Package pdftex.def Info: img/android/mockup_pen.png used on input line 128.
+(pdftex.def)             Requested size: 243.91124pt x 390.9359pt.
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 129.
+See the caption package documentation for explanation.
+
+[3 <C:/Daten/Studium/Master/Sem2/Human Computer Interaction/hci/ProjektBericht/bericht/img/android/mockup_color.png> <C:
+/Daten/Studium/Master/Sem2/Human Computer Interaction/hci/ProjektBericht/bericht/img/android/mockup_pen.png>]
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no œ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¶ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no Ÿ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¼ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no Ÿ in font cmss10!
+Missing character: There is no Ã in font cmss10!
+Missing character: There is no ¤ in font cmss10!
+
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bericht.bbl"
 
 LaTeX Warning: Empty `thebibliography' environment on input line 3.
 
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 158.
 
-Overfull \vbox (1.34442pt too high) has occurred while \output is active []
+Overfull \vbox (1.84442pt too high) has occurred while \output is active []
 
- [2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+ [4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 158.
 
-(C:\Daten\Dropbox\Shared\HCI-Projekt\ProjektBericht\bericht\bericht.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 144.
-
-
-Package rerunfilecheck Warning: File `bericht.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `bericht.out':
-(rerunfilecheck)             Before: 402406DE64E09E71E797A801E87DFEAC;320
-(rerunfilecheck)             After:  AACE7243FB853C409839A521C2F0ECA1;326.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+("C:\Daten\Studium\Master\Sem2\Human Computer Interaction\hci\ProjektBericht\bericht\bericht.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 158.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 158.
+Package rerunfilecheck Info: File `bericht.out' has not changed.
+(rerunfilecheck)             Checksum: AACE7243FB853C409839A521C2F0ECA1;326.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 158.
  ) 
 Here is how much of TeX's memory you used:
- 6475 strings out of 493921
- 99516 string characters out of 3147280
- 178962 words of memory out of 3000000
- 9717 multiletter control sequences out of 15000+200000
+ 6502 strings out of 493921
+ 100519 string characters out of 3147280
+ 177917 words of memory out of 3000000
+ 9734 multiletter control sequences out of 15000+200000
  9976 words of font info for 30 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 43i,7n,41p,257b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,7n,41p,1081b,461s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/fontname/8r.enc}<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/
 cm/cmss10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
 ype1/public/amsfonts/cm/cmss9.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb>
-Output written on bericht.pdf (2 pages, 62176 bytes).
+Output written on bericht.pdf (4 pages, 148855 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 49 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 64 words of extra memory for PDF output out of 10000 (max. 10000000)
 
