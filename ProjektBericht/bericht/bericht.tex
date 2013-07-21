@@ -78,17 +78,6 @@
 
 \maketitle
 
-\begin{abstract}
-In this sample we describe the formatting requirements for various SIGCHI related submissions 
-and offer recommendations on writing for the worldwide SIGCHI readership. 
-%Do not change the page size or page settings.
-Please review this document even if you have submitted to SIGCHI conferences before, 
-some format details have changed relative to previous years.
-\end{abstract}
-
-\keywords{\plainkeywords}
-
-
 
 % =============================================================================
 \section{Problemstellung und Motivation}
@@ -160,6 +149,11 @@ Die anderen Studenten im Saal haben natürlich bemerkt, dass Marko die Skizze nu
 % =============================================================================
 \section{Low-fidelity Prototyp}
 % =============================================================================
+In diesem Abschnitt des Papiers wird der low-fidelity Prototyp der Android-Anwendung vorgestellt.\\
+
+Die Startansicht der Anwendung, dargestellt in Abbildung \ref{fig:mockup_startscreen}, zeigt eine am am oberen Bildrand angebrachte Menüleiste, sowie eine große Zeichenfläche mit weißen Hintergrund. 
+Die Menüleiste bietet dabei folgenden Funktionen an:
+
 \begin{itemize}
 	\item {\textbf{Zeigertool:} Kann verwendet werden um zu zoomen oder die Zeichenfläche nach links, rechts, oben oder unten zu verschieben}
 	\item {\textbf{Stift:} Mit dem Stift kann auf der Zeichenfläche gezeichnet werden.}
@@ -176,17 +170,21 @@ Die anderen Studenten im Saal haben natürlich bemerkt, dass Marko die Skizze nu
   \label{fig:mockup_startscreen}
 \end{figure}
 
-\begin{figure}
-  \centering
-  \includegraphics[width=\linewidth]{img/android/mockup_color.png}
-  \caption{Select a color)}
-  \label{fig:mockup_color}
-\end{figure}
+Wird die Funktionaltität "Farbwahl" von Nutzer ausgewählt, erscheint das in Abbildung \ref{fig:mockup_color} dargestellte Auswahlmenü. Die aktuell gewählte Farbe wird dabei sowohl im Auswahlmenü durch eine dicke, weiße Umwandung der Farbe angezeigt, als auch in der Menüliste an der Farbe des Stifts abgebildet.
 
 \begin{figure}
   \centering
-  \includegraphics[width=\linewidth]{img/android/mockup_pen.png}
-  \caption{Select a pen}
+  \includegraphics[width=190pt]{img/android/mockup_color.png}
+  \caption{Auswahlmenü für die Farbwahl}
+  \label{fig:mockup_color}
+\end{figure}
+
+Möchte der Nutzer die Dicke des Zeichenstifts verändern, drückt er den im Menü angebrachte Button zur Änderung der Stiftdicke. Darauffolgend erscheint das in Graphik \ref{fig:mockup_pen} abgebildete Auswahlmenü. Die Anzeige der aktuellen Stiftdicke wird analog zur Funktionaltität "Farbwahl" angezeigt.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=190pt]{img/android/mockup_pen.png}
+  \caption{Auswahlmenü für die Stiftdicke}
   \label{fig:mockup_pen}
 \end{figure}
 
