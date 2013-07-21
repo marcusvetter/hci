@@ -233,7 +233,7 @@
   \begin{minipage}[b]{0.81\textwidth}
     \rule{1.03\textwidth}{3pt}
   	\renewcommand\baselinestretch{0.75}
-    \usefont{OT1}{phv}{bc}{n}\selectfont
+    \usefont{T1}{phv}{bc}{n}\selectfont
     \raggedright\Huge\bfseries\@title\par
   \end{minipage}
 
