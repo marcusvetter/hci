@@ -96,7 +96,6 @@ Die Problemstellung lässt sich in mehrere Teile aufgliedern:\\
 Zum einen das Anfertigen der Skizze auf dem Smartphone. Hier muss die App die Möglichkeiten einer Zeichen- bzw. Mal-App bieten. Andererseits sollten es nicht zu viele Features sein um den Hauptanwendungszweck nicht aus den Augen zu verlieren.
 Der zweite Teil der Problemstellung dreht sich um die Übertragung der angefertigten Skizze auf den Laptop. Dabei geht es sowohl um die technische Realisierung (welche Übertragungstechnik) als auch darum die Funktion einfach und komfortabel benutzbar zu machen.
 Um diesen letzten Punkt dreht sich auch unsere Studie, in der wir unter anderem untersuchen, wie sich die Übertragung der Skizze vom Smartphone auf den Laptop am benutzerfreundlichsten auslösen lässt.
-%% TODO: Noch mehr Labern
 
 Um uns über eine repräsentative Nutzung unseres Systems klar zu werden und damit gleichzeitig mögliche Features und interessante Gebiete für unsere Studie zu finden, haben wir uns ein Szenario anhand einer konkreten Persona überlegt. 
 
@@ -195,8 +194,165 @@ Möchte der Nutzer die Dicke des Zeichenstifts verändern, drückt er den im Men
 % =============================================================================
 \section{Ergebnisse der Studie}
 % =============================================================================
-Blubb
-% TODO: Bla bla bla
+
+\subsection{Ziel und Durchführung}
+Ziel der Studie war es, Antworten auf die folgenden drei Fragen zu finden:
+\begin{itemize}
+\item Lässt sich ein Marktpotential der App aus dem aktuellen Notizenverhalten der potentiellen Anwender ableiten?
+\item Welche Features sehen diese als unbedingt notwendig an?
+\item Welche Gesten würden die Nutzer für die Bedienung der App erwarten und wie bewerten?
+\end{itemize}
+
+Die erste Frage sollte dabei klären, dass das Konzept der App auch tatsächlich Probleme der Anwender aufgreift und nicht nur ein Randphänomen adressiert. Anhand der zweiten Frage sollte zudem sicher gestellt werden, dass ein möglichst großer gemeinsamer Nenner hinsichtlich der gewünschten Funktionen erreicht werden würde. Die letzte Frage orientiert sich an der Methode von Wobbrock und sollte eine möglichst intuitive Bedienung der App gewährleisten.
+
+Ein entsprechender Fragebogens wurde (technisch) via Google Forms umgesetzt und den Teilnehmern der Studie via Internet bereitgestellt. Dieser bestand aus drei Hauptteilen:
+
+\begin{itemize}
+\item Einordnung des Teilnehmers
+\item Vorstellung des Hauptszenarios der App und Gestenerfassung
+\item Bewertung des Konzepts der App
+\end{itemize}
+
+Der erste Teil enthielt demographische Fragen und sollte dabei helfen, die technische Versiertheit sowie das Notizverhalten des Teilnehmers einzuschätzen.
+Der zweite Teil stellte das Hauptszenario unserer App vor und forderte den Teilnehmer dazu auf, drei Gesten zur Bedienung der App in Freitextform anzugeben. Darüber hinaus sollte dieser auch die Anwendbarkeit der angegeben Geste auf einer Skala von 1 (schlecht) bis 5 (gut) bewerten.
+Der dritten und letzte Teil enthielt spezifische Fragen zu unserem Konzept; Beispielsweise, ob der Teilnehmer auch tatsächlich Interesse hätte, die App zu verwenden, welche Probleme dieser hinsichtlich der App antizipieren würde oder, wie viel der Teilnehmer für eine solche Anwendung ausgeben würde.
+
+\subsection{Teilnehmer und ihre Eigenschaften}
+
+Insgesamt nahmen 14 Personen an der Studie teil, von denen 13 männlich waren. Das angegebene Alter lag zwischen 22 und 27 und mit einem Mittelwert von 24,36 Jahren (SD = 1,5). Zehn der 14 Teilnehmer gaben einen Informatikstudiengang an. Hinsichtlich ihrer technischen Begeisterung bewerteten sie sich auf einer Skala von 1 (nicht interessiert) bis 5 (sehr interessiert) mit durchschnittlich 4,64 Punkten (SD = 0,5).
+Auffallend war auch, dass fast jeder Teilnehmer einen Laptop und ein Smartphone besaß und diese mit zur Universität nahm. Bei Tablets traf dies immerhin auf die Hälfte zu (vgl. Tabelle). Folglich waren die technischen Grundvoraussetzungen für unser Konzept beim Großteil der Teilnehmer gegeben.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Alter.jpg}
+  \caption{Alter}
+  \label{fig:studie_alter}
+\end{figure}
+
+\begin{figure}
+  \centering
+\begin{tabular}{|l|p{1.5cm}|p{3cm}|}
+\hline 
+ & Gerät vorhanden & Gerät wird zur \newline Uni mitgenommen \\ 
+\hline 
+Laptop & 14 & 11 \\ 
+\hline 
+Smartphone & 13 & 12 \\ 
+\hline 
+Tablet & 7 & 6 \\ 
+\hline 
+\end{tabular} 
+  \caption{Alter}
+  \label{fig:studie_tabelle}
+\end{figure}
+
+%TODO: Table
+Nach diesen eher allgemeinen Einordnungskriterien wurden die Teilnehmer nach ihrem Notizverhalten während eines Meetings, einer Vorlesung oder einer sonstigen Präsentation befragt.
+Dabei stellte sich heraus, dass Papier aufgrund seiner zehn Nennungen noch immer das beliebteste Medium zu sein schien. Dazu passend gab auch nur eine Person an, handschriftlichen Aufzeichnungen später zu digitalisieren. Zumindest drei Teilnehmer nutzten auch technische Geräte. Eine Person verzichtete vollständig auf Notizen.
+Auf die Frage, warum technische Geräte bisher nicht / selten genutzt würden, antworteten sieben von 14 Personen, dass sie die bestehenden Anwendungen als unzureichend bewerten würden.
+Zusammengefasst ergibt sich also, dass die Teilnehmer technischen Geräte mit zur Universität nehmen, aber selten für Notizen nutzen. Außerdem scheinen bisher die richtigen Werkzeuge bzw. Anwendungen zu fehlen, um Laptops und ähnliche Geräte produktiv und komfortabel in den entsprechenden Workflow einbinden zu können.
+
+\subsection{Gestensteuerung}
+
+Als erstes sollten die Teilnehmer eine Geste schildern, durch die sie die Übertragung einer Skizze vom Smartphone an den Computer starten würden (die entsprechende Funktionalität wurde ihnen zuvor gezeigt bzw. erklärt). Sieben der Teilnehmer beschrieben daraufhin eine Wischgeste in Richtung des Laptops. Fünf gaben an, sich für diese Funktionalität keine Geste vorstellen zu können. Hatten die Teilnehmer eine Geste angegeben, so bewerteten sie diese auf einer Skala von 1 (schlechte Geste) bis 5 (gute Geste) mit durchschnittlich 3,86 Punkten (SD = 1,2).
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Geste_Start_Uebertragung.jpg}
+  \caption{Geste - Start der Übertragung}
+  \label{fig:studie_Geste_Start_Uebertragung}
+\end{figure}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Antworten_Geste_Start_Uebertragung.jpg}
+  \caption{Geste - Start der Übertragung}
+  \label{fig:studie_Antworten_Geste_Start_Uebertragung}
+\end{figure}
+
+
+Ein ähnliches Bild ergab die zweite Beschreibung und Auswertung einer Geste, um eine Skizze auf dem Smartphone wiederherzustellen, nachdem sie an den Computer verschickt worden war. Fünf Teilnehmer beschrieben eine Wischgeste in die entgegengesetzte Richtung zu der, die sie zuvor angegeben hatten. Acht gaben nun an, dass ihnen keine Geste eingefallen sei. Die angegebenen Gesten wurden im Durchschnitt mit 3,60 Punkten etwas schlechter bewertet (SD = 0,5).
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Antworten_Geste_Wiederherstellen.jpg}
+  \caption{Geste - Wiederherstellen von Skizze}
+  \label{fig:studie_Antworten_Geste_Wiederherstellen}
+\end{figure}
+
+
+In beiden Fällen schließen wir daraus, dass die Teilnehmer mit ihrer Geste zufrieden, nicht aber “begeistert” waren.
+Als drittes wurden die Teilnehmer aufgefordert, eine Geste für die Übertragung der Skizze an mehrere Computer zu beschreiben (Multicast). Hier antworteten nun schon elf Teilnehmer, dass ihnen hierfür keine Geste einfallen würde. Die drei restlichen Gesten waren zudem recht komplex, wie z.B. eine Art Zoomgeste mit fünf Fingern.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Antworten_Geste_Multicast.jpg}
+  \caption{Geste - Versenden an mehrere Teilnehmer}
+  \label{fig:studie_Antworten_Geste_Multicast}
+\end{figure}
+
+
+Auch im Hinblick auf die zuvor angegeben Swipe-Gesten, die mittlerweile doch sehr weit verbreitet sind, liegt daher die Vermutung nahe, dass die Teilnehmer eher in erlernte Bedienszenarien zurückfallen, als wirklich intuitive Gesten zu erwarten bzw. anzuwenden. Auffällig war allerdings, dass die Swipe-Geste immer in Richtung des Laptops erfolgte (in Abhängigkeit von der tatsächlichen Positionierung der beiden Geräte). Da viele, existierende Swipe-Gesten eher statisch ausgeführt werden (z.B. Android-Menübar - top-down), könnte man dies als Beleg dafür anführen, dass die Geste doch intuitiv war. Letztendlich ist hier die Stichprobengröße allerdings zu gering, um eine sinnvolle Aussage treffen zu können.
+
+Als letztes sollten die Teilnehmer angeben, ob sie im Hinblick auf die vorgestellte Anwendung allgemein lieber Menüs oder eine Geste nutzen wollen würden. Auf einer Skala von 1 (Geste) bis 5 (Menü) vergaben dabei 12 von 14 Personen mit 4 oder 5 Punkte, die zwei verbliebenen Teilnehmer allerdings zwei Punkte (M = 4,21, SD = 1,1). 
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Geste_vs_Menu.jpg}
+  \caption{Geste vs Menü}
+  \label{fig:studie_Geste_vs_Menu}
+\end{figure}
+
+Folglich scheint eine Menü-basierte Steuerung innerhalb unserer Sichtprobe bevorzugt zu werden. Die beiden “Ausreißer-Bewertungen” lassen jedoch auch die Vermutung zu, dass sich dieses Verhältnis bei einer größeren Stichprobe ändern könnte.
+
+\subsection{Fragen zum Konzept}
+
+Bewertet wurde das Konzept unserer App hauptsächlich anhand der zwei folgenden Fragen:
+\begin{enumerate}
+\item Wie interessant findest du das Konzept?
+\item Würdest du die App verwenden?
+\end{enumerate}
+
+
+Für beide Fragen stand auch hier eine Skala von 1 (uninteressant) bis 5 (interessant) zur Verfügung.
+Ihr Interesse an der App bekundeten die Teilnehmer mit durchschnittlich 3,71 Punkten (SD = 0,9). Eine tatsächliche Verwendung der App bewerteten sie im Durchschnitt mit 3,29 Punkten (SD = 1,3), woraus sich eine solide, wenn auch nicht überragend große Nachfrage ableiten ließe.
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Interesse_Konzept.jpg}
+  \caption{Interesse am Konzept}
+  \label{fig:studie_Interesse_Konzept}
+\end{figure}
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Nutzung des Konzeptes.jpg}
+  \caption{Nutzung des Konzepts}
+  \label{fig:studie_Nutzung des Konzeptes}
+\end{figure}
+
+
+Interessant waren in diesem Zusammenhang auch die Antworten auf die Frage nach dem potentiellen Aufwand für eine Erstinstallation. Obwohl oder vielleicht auch gerade weil sich die Nutzer als technisch begeistert einstuften, vergaben die Teilnehmer auf einer Skala von 1 (wenige Minuten) bis 5 (mehrere Stunden) durchschnittlich nur 1,79 Punkte (SD = 1,1).
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Aufwand_Installation.jpg}
+  \caption{Aufwand der Installation}
+  \label{fig:studie_Aufwand_Installation}
+\end{figure}
+
+Die Nutzung und den Vorteil eines digitalen Stiftes für die Skizzen auf dem Smartphone und Tablet bewerteten die Teilnehmer weniger überraschend durchweg mit sehr gut. Auf einer Skala von 1 (nicht hilfreich) bis 5 (hilfreich) ergab sich dabei einem Mittelwert von 4,79 Punkten (SD = 0,4). In Folge dessen wäre es wohl sinnvoll, die App in Kombination mit einem entsprechenden Stift anzubieten. Die Teilnehmer der Studie  wären im Mittel 1,95 Euro bereit für die App zu zahlen (SD = 2,8).
+
+\begin{figure}
+  \centering
+  \includegraphics[width=180pt]{img/studie/Preis.jpg}
+  \caption{Preis in Euro}
+  \label{fig:studie_Preis}
+\end{figure}
+
+Zum Schluss gab es zudem noch zwei Freitextfelder für mögliche Probleme und Featurewünsche der Teilnehmer. Bei den möglichen Problemen gab es zwei große Bedenken, nämlich der zu kleine Bildschirm des Smartphones (5 Nennungen) und eine unzureichend genaue Möglichkeit zu zeichnen (4 Nennungen). Demnach könnte sich die Verbreitung von Tablets als relevant erweisen, da diese eine größere Fläche bieten. Wie zuvor erwähnt liegt die Verbreitungsrate innerhalb der Stichprobe hier bei nur ca. 50\%, was sich negativ auf Bewertung und potentielle Nutzung der App auswirken könnte.
+Hinsichtlich der gewünschten Features, gab es unzählige Antworten, die zum Teil sehr komplex und wage formuliert waren. So gab ein Teilnehmer beispielsweise an, dass sich die App wie Papier bedienen lasse sollte, man aber alles beliebig rückgängig machen sollte. Daneben kam sogar die Idee auf, die App als bidirektionale Verbindung zwischen Laptop und Smartphone zu realisieren, so dass man über das Smartphone einen vorgegeben Bereich innerhalb eines Dokuments am Computer bearbeiten könnte.
+
 
 % =============================================================================
 \section{Diskussion}
