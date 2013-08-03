@@ -1,4 +1,9 @@
-\begin{thebibliography}{}
-\bibitem{Wobbrock} J. Wobbrock, M. Morris, and A. Wilson. 2009. User-defined gestures for surface computing. In Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI '09). ACM, New York, NY, USA
+\begin{thebibliography}{1}
+
+\bibitem{Wobbrock}
+Wobbrock, J.~O., Morris, M.~R., and Wilson, A.~D.
+\newblock User-defined gestures for surface computing.
+\newblock In {\em Proceedings of the SIGCHI Conference on Human Factors in
+  Computing Systems}, CHI '09, ACM (New York, NY, USA, 2009), 1083--1092.
 
 \end{thebibliography}
